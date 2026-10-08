@@ -1,0 +1,6 @@
+{
+  "name": "QuickBite Online Food Ordering",
+  "description": "Modern multi-role online food delivery platform for customers, restaurants, delivery partners, and admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
